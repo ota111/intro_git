@@ -2,3 +2,5 @@ Git練習
 基本的なワークフロー
 
 add/commit 練習
+git status
+git diff
